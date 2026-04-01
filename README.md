@@ -19,16 +19,16 @@ I've chosen MNIST, which you can acquire at https://huggingface.co/datasets/ylec
 
 ### Ordinarily trained model (no PAG)
 
-|![](figs/ordinarily_trained_model/epoch100/0_7.png)|![](figs/ordinarily_trained_model/epoch100/1_2.png)|![](figs/ordinarily_trained_model/epoch100/2_1.png)|
+|![](figs/ordinarily_trained_model/0_7.png)|![](figs/ordinarily_trained_model/1_2.png)|![](figs/ordinarily_trained_model/2_1.png)|
 |:---:|:---:|:---:|
-|![](figs/ordinarily_trained_model/epoch100/3_0.png)|![](figs/ordinarily_trained_model/epoch100/4_4.png)|![](figs/ordinarily_trained_model/epoch100/7_9.png)|
+|![](figs/ordinarily_trained_model/3_0.png)|![](figs/ordinarily_trained_model/4_4.png)|![](figs/ordinarily_trained_model/7_9.png)|
 
 
 ### Adversarially trained model (PAG)
 
-|![](figs/adversarially_trained_model/epoch100/0_7.png)|![](figs/adversarially_trained_model/epoch100/1_2.png)|![](figs/adversarially_trained_model/epoch100/2_1.png)|
+|![](figs/adversarially_trained_model/0_7.png)|![](figs/adversarially_trained_model/1_2.png)|![](figs/adversarially_trained_model/2_1.png)|
 |:---:|:---:|:---:|
-|![](figs/adversarially_trained_model/epoch100/3_0.png)|![](figs/adversarially_trained_model/epoch100/4_4.png)|![](figs/adversarially_trained_model/epoch100/7_9.png)|
+|![](figs/adversarially_trained_model/3_0.png)|![](figs/adversarially_trained_model/4_4.png)|![](figs/adversarially_trained_model/7_9.png)|
 
 ## References
 1. Madry, Aleksander, et al. "Towards deep learning models resistant to adversarial attacks." arXiv preprint arXiv:1706.06083 (2017).
