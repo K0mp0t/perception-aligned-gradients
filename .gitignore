@@ -1,0 +1,6 @@
+**/__pycache__
+.vscode
+adversarially_trained_model
+ordinarily_trained_model
+venv
+data
