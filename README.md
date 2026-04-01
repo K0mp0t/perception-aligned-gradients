@@ -1,6 +1,6 @@
 # Trying to achieve PAG (perception-aligned gradients) with adversarial training
 
-![PAG visualization](PAG_visualization.png)
+![PAG visualization](figs/PAG_visualization.png)
 *Image source: 1805.12152. PAG visualization and comparison with gradients of a model trained regular way.*
 
 Models with perception-aligned gradients are benifical in several obvious ways:
@@ -26,9 +26,9 @@ I've chosen MNIST, which you can acquire at https://huggingface.co/datasets/ylec
 
 ### Adversarially trained model (PAG)
 
-|![](adversarially_trained_model/grad_vis/epoch100/0_7.png)|![](adversarially_trained_model/grad_vis/epoch100/1_2.png)|![](adversarially_trained_model/grad_vis/epoch100/2_1.png)|
+|![](figs/adversarially_trained_model/grad_vis/epoch100/0_7.png)|![](figs/adversarially_trained_model/grad_vis/epoch100/1_2.png)|![](figs/adversarially_trained_model/grad_vis/epoch100/2_1.png)|
 |:---:|:---:|:---:|
-|![](adversarially_trained_model/grad_vis/epoch100/3_0.png)|![](adversarially_trained_model/grad_vis/epoch100/4_4.png)|![](adversarially_trained_model/grad_vis/epoch100/7_9.png)|
+|![](figs/adversarially_trained_model/grad_vis/epoch100/3_0.png)|![](figs/adversarially_trained_model/grad_vis/epoch100/4_4.png)|![](figs/adversarially_trained_model/grad_vis/epoch100/7_9.png)|
 
 ## References
 1. Madry, Aleksander, et al. "Towards deep learning models resistant to adversarial attacks." arXiv preprint arXiv:1706.06083 (2017).
